@@ -1,7 +1,7 @@
 <h1>GLPI LDAP Authentication</h1>
 
 <h2>Overview</h2>
-
+In this part of the project, I configured LDAP for centralized user authentication and management, ensuring a secure and streamlined approach to handling user access. This integration provided secure access control by centralizing authentication processes, allowing for efficient onboarding and offboarding of employees, and reducing the risk of unauthorized access.
 <br />
 
 
@@ -14,7 +14,7 @@
 
 <h2>Lab walk-through:</h2>
 
-<p align="center">
+<p align="left">
 These are the users we currently have in Active Directory.<br/>
 <img src="https://i.imgur.com/0srt5tI.png" height="60%" width="60%"/>
 <img src="https://i.imgur.com/m4jxYgF.png" height="60%" width="60%"/>
