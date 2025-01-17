@@ -10,6 +10,7 @@ In this part of the project, I configured LDAP for centralized user authenticati
 - <b>VMware Workstation 17 Pro</b>
 - <b>Windows Server 2019</b>
 - <b>Wampserver</b>
+- <b>GLPI</b>
 
 
 <h2>Lab walk-through:</h2>
